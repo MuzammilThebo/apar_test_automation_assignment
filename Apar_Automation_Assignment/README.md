@@ -24,7 +24,7 @@ This project is an automation framework designed to test subscription prices for
 ## How to Run the Project:
 
 1. **Clone the Repository**:
-
+`https://github.com/MuzammilThebo/apar_test_automation_assignment.git`
 
 2. **Update Browser Driver**:
 The WebDriverManager will automatically manage the correct ChromeDriver version for you.
@@ -38,7 +38,7 @@ Test results will be shown in the console. Screenshots are saved in the `./scree
 
 ## Directory Structure:
 
-``src/ |-- main/ | |-- java/ | |-- base/ # Base test class setup and teardown | |-- pages/ # Page classes containing web element locators and methods | -- utils/ # Utility functions for common operations like taking screenshots |-- test/ |-- java/ -- tests/ # Test classes containing actual test cases```
+```src/ |-- main/ | |-- java/ | |-- base/ # Base test class setup and teardown | |-- pages/ # Page classes containing web element locators and methods | -- utils/ # Utility functions for common operations like taking screenshots |-- test/ |-- java/ -- tests/ # Test classes containing actual test cases```
 
 
 ## Best Practices Followed:
