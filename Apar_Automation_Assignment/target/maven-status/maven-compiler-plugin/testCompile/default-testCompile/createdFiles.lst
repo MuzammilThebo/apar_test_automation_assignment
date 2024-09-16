@@ -1,0 +1,4 @@
+base\BaseTest.class
+tests\SubscriptionTests.class
+pages\SubscriptionPage.class
+utils\TestUtil.class

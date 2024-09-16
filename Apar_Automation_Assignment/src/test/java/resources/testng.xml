@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SubscriptionSuite">
+    <test name="SubscriptionTests">
+        <classes>
+            <class name="tests.SubscriptionTests"/>
+        </classes>
+    </test>
+</suite>
