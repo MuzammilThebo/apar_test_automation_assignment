@@ -34,3 +34,6 @@ This project automates the process of adding a new device using a RESTful API. T
 `src/main/java` - Contains utility classes and POJO models.
 `src/test/java` - Contains the test cases and base setup.
 `pom.xml` - Maven dependencies and project configurations.
+
+## Contact:
+For any questions, feel free to reach out via muzammil147freeman@gmail.com.
