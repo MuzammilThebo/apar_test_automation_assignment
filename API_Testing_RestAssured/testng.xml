@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DeviceAPISuite">
+    <test name="DeviceAPI Tests">
+        <classes>
+            <class name="tests.DeviceApiTests" />
+        </classes>
+    </test>
+</suite>
