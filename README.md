@@ -46,6 +46,8 @@ Test results will be shown in the console. Screenshots are saved in the `./scree
 - **Maven Lifecycle**: The project leverages Maven for dependency management and test execution.
 - **Headless Browser Option**: For faster test execution, the Chrome browser can run in headless mode by uncommenting the headless configuration.
 
+#
+
 # API Automation Assignment
 
 ## Project Overview
